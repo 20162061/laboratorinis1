@@ -1,0 +1,17 @@
+{C:/Documents and Settings/Studentas/Desktop/Vainius Kobka/nand_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Documents and Settings\Studentas\Desktop\Vainius Kobka\nand_gate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture rtl of nand_gate
+
+} {} {}} {C:/Documents and Settings/Studentas/Desktop/Vainius Kobka/nand_gate.tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Documents and Settings/Studentas/Desktop/Vainius Kobka/nand_gate.tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_tb
+-- Compiling architecture behave of nand_gate_tb
+
+} {} {}}
